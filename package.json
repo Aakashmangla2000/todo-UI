@@ -8,13 +8,16 @@
     "build": "rm -rf dist && webpack --mode development",
     "dev": "nodemon app.js"
   },
+  "proxy": "http://localhost:8080",
   "author": "Aakash Mangla",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^5.1.3",
     "express": "^4.18.1",
     "npm": "^8.13.1",
     "path": "^0.12.7",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.4.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.3.0"
   },

@@ -1,6 +1,13 @@
 import React from "react";
+import MyNavbar from "./components/MyNavbar";
+import TodoList from "./components/TodoList";
 const App = () => {
-  return <h1>Hello React</h1>;
+  return (
+    <div>
+      <MyNavbar />
+      <TodoList />
+    </div>
+  );
 };
 
 export default App;

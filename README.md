@@ -45,8 +45,8 @@ Setup a React Application from scratch without using create-react-app(refer the 
 First fork this repository, then clone it on you local machine.
 
 ```
-$ git clone https://github.com/Aakashmangla2000/todo-ui.git
-$ cd todo-ui
+$ git clone https://github.com/Aakashmangla2000/todo-UI.git
+$ cd todo-UI
 ```
 
 ### Credits
